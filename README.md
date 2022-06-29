@@ -1,5 +1,5 @@
 # Laravel Encrypted Attributes
-This package adds a secure-by-default encrypted attributes, to any Laravel Model,
+This package adds secure-by-default encrypted attributes, to any Laravel Model,
 on demand.
 
 By default, all serializations (`toArray`, `toJson`) and the default getter for any attribute
