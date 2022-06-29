@@ -12,7 +12,7 @@ echo $tenant->access_token_decrypted;
 
 # Installation
 ```
-composer require mathiasgrimm/laravel-encrypted-attributes
+composer require mathiasgrimm/laravel-encrypted-attributes ^1.0
 ```
 
 # Background
