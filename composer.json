@@ -1,6 +1,7 @@
 {
     "name": "mathiasgrimm/laravel-encrypted-attributes",
     "description": "Encrypted and safe-by-default Laravel Model attributes",
+    "license": ["MIT"],
     "tags": ["laravel", "model", "encrypt", "decrypt", "attribute"],
     "authors": [
         {
