@@ -1,6 +1,6 @@
 <?php
 
-namespace MathiasGrimm\EncryptedAttributes;
+namespace MathiasGrimm\LaravelEncryptedAttributes;
 use RuntimeException;
 
 class NoEnvironmentDefinedException extends RuntimeException

@@ -1,6 +1,6 @@
 <?php
 
-namespace MathiasGrimm\EncryptedAttributes;
+namespace MathiasGrimm\LaravelEncryptedAttributes;
 
 use Exception;
 use Illuminate\Contracts\Encryption\DecryptException;

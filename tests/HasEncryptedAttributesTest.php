@@ -4,7 +4,7 @@ namespace Tests;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Facades\Crypt;
-use MathiasGrimm\EncryptedAttributes\HasEncryptedAttributes;
+use MathiasGrimm\LaravelEncryptedAttributes\HasEncryptedAttributes;
 use Orchestra\Testbench\TestCase;
 use Throwable;
 
